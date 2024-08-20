@@ -2,122 +2,45 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Detalles del Curso
 
-[Link to another page](./another-page.html).
+**Duración** 4 semanas (2 clases por semana)
 
-There should be whitespace between paragraphs.
+**Inicio:** A definir
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Modalidad:** 100% Online
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Cupos limitados:** 6 alumnos por grupo
 
 
-### Definition lists can be used with HTML syntax.
+## ¿Para quién es este curso?
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* Este curso es ideal para estudiantes de informática, entusiastas de la tecnología, y cualquier persona interesada en aprender Linux desde cero.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* No necesitas experiencia previa, solo ganas de aprender y explorar el mundo de Linux.
 
-```
-The final element.
-```
+## ¿Por qué aprender Linux?
+
+* Linux es uno de los sistemas operativos más utilizados en servidores y sistemas embebidos en todo el mundo.
+
+* Dominar Linux te abrirá puertas en el mercado laboral, ya que es una habilidad altamente demandada en la industria tecnológica.
+
+* Este curso te preparará para enfrentar desafíos técnicos y te proporcionará una base sólida para seguir avanzando en tu carrera.
+
+## ¿Qué vas a aprder?
+
+* En el curso de Operador Linux, aprenderás a dominar los conceptos fundamentales del sistema operativo Linux.
+
+* Desde la instalación y configuración inicial, hasta el manejo avanzado de comandos y administración del sistema.
+
+* Este curso está diseñado para brindarte las habilidades necesarias para trabajar en entornos reales, preparándote para roles en administración de sistemas y operaciones IT.
+
+
+
+## Modalidad del curso
+
+* El curso es 100% online y práctico. A lo largo de 4 semanas, con 2 clases de 2 horas cada una, trabajaremos en un entorno de laboratorio personalizado, donde podrás aplicar lo aprendido en tiempo real. Los alumnos que no dispongan de un entorno de práctica propio, tendrán acceso a una shell en nuestro laboratorio para que puedan seguir las clases sin problemas.
+
+## ¿Qué necesitas?
+
+* Solo necesitas una PC y conexión a internet. Si no puedes instalar Linux en tu máquina, no te preocupes, te proporcionaremos acceso a nuestro laboratorio virtual donde podrás trabajar directamente en un entorno Linux preparado para ti.
