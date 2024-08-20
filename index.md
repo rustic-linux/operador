@@ -27,7 +27,7 @@ layout: default
 
 * Este curso te preparará para enfrentar desafíos técnicos y te proporcionará una base sólida para seguir avanzando en tu carrera.
 
-## ¿Qué vas a aprder?
+## ¿Qué vas aprender?
 
 * En el curso de Operador Linux, aprenderás a dominar los conceptos fundamentales del sistema operativo Linux.
 
@@ -44,3 +44,7 @@ layout: default
 ## ¿Qué necesitas?
 
 * Solo necesitas una PC y conexión a internet. Si no puedes instalar Linux en tu máquina, no te preocupes, te proporcionaremos acceso a nuestro laboratorio virtual donde podrás trabajar directamente en un entorno Linux preparado para ti.
+
+## Inscríbete Ahora
+
+Para más información o para inscbirte: [Aca esta el formulario ;)](https://forms.gle/9X2EGCF5vG96xHvt9)
