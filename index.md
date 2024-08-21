@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 # Detalles del Curso
 
 **Duración** 4 semanas (2 clases por semana)
@@ -48,3 +49,5 @@ layout: default
 ## Inscríbete Ahora
 
 Para más información o para inscbirte: [Aca esta el formulario ;)](https://forms.gle/9X2EGCF5vG96xHvt9)
+
+[Te cuento un poco quien soy](./another-page.html).
