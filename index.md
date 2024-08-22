@@ -5,13 +5,13 @@ layout: default
 
 # Detalles del Curso
 
-**Duración** 4 semanas (2 clases por semana)
+**Duración** 2 Meses
 
 **Inicio:** A definir
 
 **Modalidad:** 100% Online
 
-**Cupos limitados:** 6 alumnos por grupo
+**Cupos limitados:** 5 alumnos por grupo
 
 
 ## ¿Para quién es este curso?
@@ -40,7 +40,7 @@ layout: default
 
 ## Modalidad del curso
 
-* El curso es 100% online y práctico. A lo largo de 4 semanas, con 2 clases de 2 horas cada una, trabajaremos en un entorno de laboratorio personalizado, donde podrás aplicar lo aprendido en tiempo real. Los alumnos que no dispongan de un entorno de práctica propio, tendrán acceso a una shell en nuestro laboratorio para que puedan seguir las clases sin problemas.
+* El curso es 100% online y práctico. A lo largo de 8 semanas, trabajaremos en un entorno de laboratorio personalizado, donde podrás aplicar lo aprendido en tiempo real. Los alumnos que no dispongan de un entorno de práctica propio, tendrán acceso a una shell en nuestro laboratorio para que puedan seguir las clases sin problemas.
 
 ## ¿Qué necesitas?
 
