@@ -11,7 +11,7 @@ layout: default
 
 **Modalidad:** 100% Online
 
-**Cupos limitados:** 5 alumnos por grupo
+**Cupos limitados:** De 5 alumnos o Individual
 
 
 ## ¿Para quién es este curso?
