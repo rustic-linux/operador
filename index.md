@@ -3,22 +3,19 @@ layout: default
 ---
 
 
-# Detalles del Curso
+# Clases de Linux
 
-**Duración** 2 Meses
+**Precio:** $10000 1hora y media (90min). El contenido se adapta a la necesidad de cada alumno.
 
-**Inicio:** A definir
+**Horarios:** A coordinar según disponibilidad.
 
-**Modalidad:** 100% Online
+**Modalidad:** 100% Online, 1 hora y media por clase.
 
-**Cupos limitados:** De 5 alumnos o Individual
+## ¿Para quién son estas clases?
 
+* Estas clases son ideales para estudiantes de informática, entusiastas de la tecnología, profesionales que buscan mejorar sus habilidades en Linux, o cualquier persona interesada en aprender sobre Linux a su propio ritmo.
 
-## ¿Para quién es este curso?
-
-* Este curso es ideal para estudiantes de informática, entusiastas de la tecnología, y cualquier persona interesada en aprender Linux desde cero.
-
-* No necesitas experiencia previa, solo ganas de aprender y explorar el mundo de Linux.
+* No necesitas experiencia previa, ya que el contenido se ajusta a tu nivel de conocimiento, desde principiantes hasta usuarios avanzados.
 
 ## ¿Por qué aprender Linux?
 
@@ -26,21 +23,19 @@ layout: default
 
 * Dominar Linux te abrirá puertas en el mercado laboral, ya que es una habilidad altamente demandada en la industria tecnológica.
 
-* Este curso te preparará para enfrentar desafíos técnicos y te proporcionará una base sólida para seguir avanzando en tu carrera.
+* Estas clases te proporcionarán una base sólida y habilidades prácticas para enfrentar diversos desafíos en la administración de sistemas Linux, enfocados en tus objetivos personales o profesionales.
 
 ## ¿Qué vas aprender?
 
-* En el curso de Operador Linux, aprenderás a dominar los conceptos fundamentales del sistema operativo Linux.
+* El contenido de cada clase se adapta a tus necesidades específicas. Según tu interés, podrás aprender desde los fundamentos básicos de Linux, instalación, y manejo de comandos, hasta administración avanzada del sistema y resolución de problemas.
 
-* Desde la instalación y configuración inicial, hasta el manejo avanzado de comandos y administración del sistema.
+* Aplicarás lo aprendido en un entorno práctico, orientado a tus metas: mejorar tus habilidades técnicas, prepararte para certificaciones, o avanzar en un proyecto propio.
 
-* Este curso está diseñado para brindarte las habilidades necesarias para trabajar en entornos reales, preparándote para roles en administración de sistemas y operaciones IT.
+## Modalidad de las clases
 
+* Las clases son completamente online y personalizadas. No hay un número predefinido de clases; avanzamos a tu ritmo, y el contenido se adapta a tus necesidades y objetivos.
 
-
-## Modalidad del curso
-
-* El curso es 100% online y práctico. A lo largo de 8 semanas, trabajaremos en un entorno de laboratorio personalizado, donde podrás aplicar lo aprendido en tiempo real. Los alumnos que no dispongan de un entorno de práctica propio, tendrán acceso a una shell en nuestro laboratorio para que puedan seguir las clases sin problemas.
+* Si no tienes un entorno de práctica, te proporcionamos acceso a un laboratorio virtual Linux donde podrás practicar tanto durante como después de las clases.
 
 ## ¿Qué necesitas?
 
