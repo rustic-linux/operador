@@ -30,4 +30,6 @@ Mi enfoque se centra en ofrecer soluciones integradas que promuevan una mayor ef
 
 Si estás interesado en aprender más o tienes alguna pregunta sobre el curso, no dudes en contactarme.
 
+[Linkedin](https://www.linkedin.com/in/jestroz/)
+
 [volver](./)
