@@ -12,11 +12,14 @@ _¡Hola! Soy Jonatan Estroz, Administrador de Sistemas Linux con extensa experie
 
 > ### Mi Experiencia
 
+> Sysadmin/DevOps (Presente) Como Consultor SysAdmin/DevOps freelance, me especializo en la administración de servidores Linux, gestionando entornos de infraestructura para garantizar un rendimiento óptimo. Cuento con experiencia en la contenerización de aplicaciones para desplegar y escalar servicios de manera eficiente. Además, implemento soluciones de automatización con herramientas CI/CD, optimizando los flujos de trabajo y mejorando la entrega continua de software.
+Utilizando las siguientes Tecnologías: Apache/Nginx, Docker, AWS, Kubernetes (Openshift), CI/CD(Jenkins, Gitlab), Postgresql, Python
+
 > Suteba (2022 - 2024): Como SysAdmin, me encargaba del mantenimiento preventivo y correctivo de los servidores de la organización, incluyendo los físicos, virtuales y remo, así como del monitoreo de los mism.os La realización de backups regulares y sus chequeos asociados.
 Mantener la seguridad de los servidores y los servicios que estos brindaban, así como de la implementación de nuevos servicios en coordinación con el área de desarrollo y el resto del equipo de infraestructura.
 Actuaba como referente dentro del área de administración de servidore
 
-> SysAdmin Freelance (2019 - 2022): Como consultor independiente, he optimizado la administración de sistemas utilizando herramientas como AWS, Docker, y Python para automatización. Mi enfoque ha sido proporcionar soluciones ágiles y eficientes adaptadas a las necesidades cambiantes de mis clientes.
+> SysAdmin Freelance (2019 - Presente): Como consultor independiente, he optimizado la administración de sistemas utilizando herramientas como AWS, Docker, y Python para automatización. Mi enfoque ha sido proporcionar soluciones ágiles y eficientes adaptadas a las necesidades cambiantes de mis clientes.
 
 > DLA, Inc. (ClaroVideo) (2011 - 2019): Lideré la administración de servicios críticos y proyectos basados en tecnologías como NFS-CIFS, DNS, y FTP. Implementé herramientas de monitoreo como Nagios y Ansible para una gestión eficiente y escalable de la infraestructura.
 
